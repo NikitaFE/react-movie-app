@@ -1,6 +1,6 @@
 <img src="public/logo.jpg" width="200" />
 
-## Movies API
+## Movies API 
 
 ```
 type:  now_playing | upcoming | popular
